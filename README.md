@@ -7,7 +7,7 @@ Aspiring to be a Business Data Analyst
 A strong background in computer programming and mathematics has rendered me the foundational knowledge and skills necessary to pursue a career as a Business Data Analyst.
 
 * 🌍  I'm based in Jabalpur, Madhya Pradesh, India
-* 🖥️  See my portfolio at [https://ksj-singh.github.io/website/](http://https://ksj-singh.github.io/website/)
+* 🖥️  See my portfolio at [https://ksj-singh.github.io/website/]https://ksj-singh.github.io/website/)
 * ✉️  You can contact me at [kunwardeepjagdev@gmail.com](mailto:kunwardeepjagdev@gmail.com)
 
 ### Skills
